@@ -1,0 +1,57 @@
+html>
+    <title>
+        CV Fabiana Cillo
+    </title>
+    <head>
+
+    </head>
+    <body>
+        <h1>Curriculo</h1>
+        <img src="fabiana.jpg" alt="" width="100">
+        <h3>Fabiana Cillo</h3>
+        Analista de Testes
+        <br>
+        fabianacillo@hotmail.com
+        <br>
+       linkedin.com/in/fabiana-cillo
+       <br>
+       <p> <b>Formação Acadêmica</b></p>
+       <ul>
+        <li>Cursando Análise e Desenvolvimento de Sistemas na Estácio</li>
+        <li>MBA em Assessoria Executiva</li>
+        <li>Formada em Gestão de Negócios Internacionais na Universidade São Marcos</li>
+       </ul>
+
+       <p>
+        <b>Experiência Profissional</b>
+       </p>
+
+       <ol>
+        <li>De 2020 até o presente momento - Auxiliar Administrattiva - QA na Klaus Essen</li>
+        <li>De 2011 até 2018 - Supervisora Administrativa na Capocchi Advogados Associados </li>
+        <p>
+        <b>Habilidades e Competências</b>
+        </p>
+
+        <ul>
+            <li>Jira</li>
+            <li>Criação de Plano de Teste</li>
+            <li>Gestão de Defeitos de Bug`s</li>
+            <li>Criação de Planos de Testes e Definição de Escopo de Testes</li>
+            <li>Testes Funcionais e não Funcionais </li>
+            <li>Metologia Agil</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Git Hub</li>
+            <li>ISO 9001</li>
+            <li>Modelagem de Processos</li>
+        </ul>
+    
+       </ol>
+
+    
+       
+
+    </body>
+
+</html>
